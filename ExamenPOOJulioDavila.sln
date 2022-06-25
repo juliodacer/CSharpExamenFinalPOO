@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenPOOJulioDavila", "ExamenPOOJulioDavila\ExamenPOOJulioDavila.csproj", "{A965E839-4AF6-4153-B1CC-C38C0806E7AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprasOnline", "ComprasOnline\ComprasOnline.csproj", "{8B19B1DD-01AF-4485-A674-7DF1108E4D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A965E839-4AF6-4153-B1CC-C38C0806E7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A965E839-4AF6-4153-B1CC-C38C0806E7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A965E839-4AF6-4153-B1CC-C38C0806E7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A965E839-4AF6-4153-B1CC-C38C0806E7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B19B1DD-01AF-4485-A674-7DF1108E4D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B19B1DD-01AF-4485-A674-7DF1108E4D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B19B1DD-01AF-4485-A674-7DF1108E4D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B19B1DD-01AF-4485-A674-7DF1108E4D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF4CEFD-A41A-4534-A5ED-6633A6ACAE04}
+	EndGlobalSection
+EndGlobal

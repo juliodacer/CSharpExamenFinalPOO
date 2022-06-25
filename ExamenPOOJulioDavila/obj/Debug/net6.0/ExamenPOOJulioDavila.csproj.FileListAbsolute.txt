@@ -1,0 +1,15 @@
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\bin\Debug\net6.0\ExamenPOOJulioDavila.exe
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\bin\Debug\net6.0\ExamenPOOJulioDavila.deps.json
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\bin\Debug\net6.0\ExamenPOOJulioDavila.runtimeconfig.json
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\bin\Debug\net6.0\ExamenPOOJulioDavila.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\bin\Debug\net6.0\ExamenPOOJulioDavila.pdb
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.csproj.AssemblyReference.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.GeneratedMSBuildEditorConfig.editorconfig
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.AssemblyInfoInputs.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.AssemblyInfo.cs
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.csproj.CoreCompileInputs.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\refint\ExamenPOOJulioDavila.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.pdb
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ExamenPOOJulioDavila.genruntimeconfig.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ExamenPOOJulioDavila\obj\Debug\net6.0\ref\ExamenPOOJulioDavila.dll

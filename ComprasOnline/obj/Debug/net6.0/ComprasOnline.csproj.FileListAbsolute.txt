@@ -1,0 +1,15 @@
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\bin\Debug\net6.0\ComprasOnline.exe
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\bin\Debug\net6.0\ComprasOnline.deps.json
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\bin\Debug\net6.0\ComprasOnline.runtimeconfig.json
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\bin\Debug\net6.0\ComprasOnline.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\bin\Debug\net6.0\ComprasOnline.pdb
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.csproj.AssemblyReference.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.AssemblyInfoInputs.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.AssemblyInfo.cs
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.csproj.CoreCompileInputs.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\refint\ComprasOnline.dll
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.pdb
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ComprasOnline.genruntimeconfig.cache
+D:\IATec\POO\ExamenPOOJulioDavila\ComprasOnline\obj\Debug\net6.0\ref\ComprasOnline.dll
